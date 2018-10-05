@@ -1,1 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width-max: 1055px;
+    margin: 0 auto;
+}
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
 
